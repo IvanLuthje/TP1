@@ -1,0 +1,18 @@
+header{
+    background-color:#fede84;
+}
+
+.col_izq{
+    position:absolute;
+    background-color: #c0ee00;
+    width: 15%;
+    height: 100%;
+}
+
+.col_der{
+    position:absolute;
+    background-color: #c0eeee;
+    margin-left:16%;
+    width: 84%;
+    height: 100%;
+}
